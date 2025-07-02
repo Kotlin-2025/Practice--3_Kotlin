@@ -1,0 +1,2 @@
+/data/data/com.termux/files/home/practice-3/src/test/kotlin/edu/ukma/GenericsTest.kt
+/data/data/com.termux/files/home/practice-3/src/test/kotlin/edu/ukma/ExceptionsTest.kt
